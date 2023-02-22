@@ -2,3 +2,6 @@ theme: minima
 title: Test Blog
 author: Rene
 description: Just a simple test
+
+ plugins:
+     - jekyll-leaflet
